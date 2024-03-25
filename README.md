@@ -1,0 +1,2 @@
+# ClipboardShared
+ClipboardShared for Server.
