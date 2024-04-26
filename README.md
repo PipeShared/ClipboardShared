@@ -1,2 +1,2 @@
-# ClipboardShared
-ClipboardShared for Server.
+# PipeShared
+PipeShared for Server.
